@@ -1,0 +1,143 @@
+[
+    {   
+        "category":"Raspadas",
+        "id":1,
+        "productname": "Mangonada",
+        "description": "Icey made of mango, orange juice, chamoy and chile lime salt" ,
+        "price": "7.00",
+        "image":"/images/Mangonada.jpeg"
+    },
+    {
+        "category":"Raspadas",
+        "id": 2,
+        "productname": "Fresa con Coco",
+        "description": "Icey made of strawberries and coconut milk" ,
+        "price":"7.00",
+        "image":"/images/RositaFrecita.jpg"
+    },
+    {
+        "category":"Raspadas",
+        "id": 3,
+        "productname": "Diablito",
+        "description": "Icey made of orange-pineapple juice with homemade spicy candy" ,
+        "price":"7.00",
+        "image":"images/Diablito.jpg"
+    },
+    {
+        "category":"Raspadas",
+        "id": 4,
+        "productname": "Pina-colada",
+        "description": "Pineapple and coconut raspada with sweet condensed milk on top" ,
+        "price":"7.00",
+        "image":"/images/pina-colada.jpg"
+    },
+    {   
+        "category":"FrutaLoca",
+        "id":5,
+        "productname": "Sandia Loca",
+        "description": "Watermelon filled with peanuts and candy,drizzled with chamoy sauce, sprinkled with Tajín seasoning,",
+        "price": "12.00",
+        "image":"/images/SandiaLoca.jpg"
+    },
+    {
+        "category":"FrutaLoca",
+        "id": 6,
+        "productname": "Manzana Loca",
+        "description": "Apple slices with peanuts and candy,drizzled with chamoy sauce, sprinkled with Tajín seasoning" ,
+        "price":"7.00",
+        "image":"/images/ManzanaLoca.jpg"
+    },
+    {
+        "category":"FrutaLoca",
+        "id": 7,
+        "productname": "Pina Loca",
+        "description": "Pineapple with peanuts and candy,drizzled with chamoy sauce, sprinkled with Tajín seasoning",
+        "price":"12.00",
+        "image":"/images/PinaLoca.jpg"
+
+    },
+    {
+        "category":"FrutaLoca",
+        "id": 8,
+        "productname": "coctel de Fruta",
+        "description": "A variety of fruit's cut into slices and drizzled in chamoy" ,
+        "price":"10.00",
+        "image":"/images/CoctelDeFruta.jpeg"
+    },
+    {
+        "category":"Mexican Snacks",
+        "id": 9,
+        "productname": "Chicharon Preparado",
+        "description": "Fried chifcharrón topped with cabbage, diced tomatoes, sour cream,sliced avocados, and cueritos" ,
+        "price":"10.00",
+        "image":"/images/ChicharonPreparadoProduct.jpg"
+    },
+    {
+        "category":"Mexican Snacks",
+        "id": 10,
+        "productname": "Esquite",
+        "description": "rains of corn sautéed in butter mixed with lime juice, chile powder, and mayonnaise" ,
+        "price":"5.00",
+        "image":"/images/Esquite.jpg"
+    },
+    {
+        "category":"Mexican Snacks",
+        "id": 11,
+        "productname": "Tosti Locos",
+        "description": "Tostitos chips topped with cueritos, cucumber, jícama, lime juice, hot sauce, chamoy, and Tajín" ,
+        "price":"10.00",
+        "image":"/images/TostiLoco.jpg"
+    },
+    {
+        "category":"Mexican Snacks",
+        "id": 12,
+        "productname": "Elotes Preparados",
+        "description": "Corn on a cob with lime juice, chile powder, and mayonnaise" ,
+        "price":"5.00",
+        "image":"/images/ElotesPreparados.jpg"
+    },
+    {
+        "category":"AguasFrescas",
+        "id": 13,
+        "productname": "Horchata",
+        "description": "Refreshing drink made with rice and is flavored with cinnamon and sugar" ,
+        "price":"5.00",
+        "image":"/images/Horchata.jpg"
+    },
+    {
+        "category":"AguasFrescas",
+        "id": 14,
+        "productname": "Fresa",
+        "description": "Refreshing fruit water that is lightly sweetened and uses fresh Strawberries" ,
+        "price":"5.00",
+        "image":"/images/FresaAgua.jpg"
+    },
+    {
+        "category":"AguasFrescas",
+        "id": 15,
+        "productname": "Pina",
+        "description": "Refreshing fruit water that is lightly sweetened and uses fresh Pineapples" ,
+        "price":"5.00",
+        "image":"/images/PinaAgua.jpg"
+    },
+    {
+        "category":"AguasFrescas",
+        "id": 16,
+        "productname": "Jamaica",
+        "description": "hibiscus tea made from an infusion of hibiscus flowers." ,
+        "price":"5.00",
+        "image":"/images/JamaicaAgua.jpg"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
